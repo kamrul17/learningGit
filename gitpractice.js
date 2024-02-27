@@ -13,5 +13,5 @@ function personName() {
   return name;
 }
 function newFunc() {
-  console.log("this is new func");
+  console.log("this is new function");
 }
