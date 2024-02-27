@@ -12,3 +12,6 @@ console.log(personage());
 function personName() {
   return name;
 }
+function newFunc() {
+  console.log("this is new func");
+}
