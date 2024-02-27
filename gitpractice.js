@@ -9,3 +9,6 @@ function personage() {
   return age;
 }
 console.log(personage());
+function personName() {
+  return name;
+}
