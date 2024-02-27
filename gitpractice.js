@@ -1,4 +1,4 @@
-const name1 = "lezen";
+const name = "lezen";
 const age = 65;
 
 function person() {
@@ -9,9 +9,3 @@ function personage() {
   return age;
 }
 console.log(personage());
-function personName() {
-  return name;
-}
-function newFunc() {
-  console.log("this is new function");
-}
