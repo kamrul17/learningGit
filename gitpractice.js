@@ -6,6 +6,6 @@ function person() {
 }
 console.log(person());
 function personage() {
-  return `my age is ${age}`;
+  return age;
 }
 console.log(personage());
