@@ -12,3 +12,7 @@ console.log(personage());
 function createnewBranch() {
   let a = "hey there";
 }
+
+function branch3() {
+  let a = "hey you";
+}
