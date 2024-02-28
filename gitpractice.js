@@ -14,7 +14,8 @@ function createnewBranch() {
 }
 
 function branch3() {
-  let a = "hey you";
+  var a = "hey you";
+  var a = "hey you";
 }
 function branch4() {
   let a = "hey you";
