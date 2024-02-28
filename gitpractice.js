@@ -14,7 +14,7 @@ function createnewBranch() {
 }
 
 function branch3() {
-  var a = "hey you";
+  var a = "this code has edited";
   var a = "hey you";
 }
 function branch4() {
