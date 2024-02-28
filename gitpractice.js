@@ -10,7 +10,7 @@ function personage() {
 }
 console.log(personage());
 function createnewBranch() {
-  let a = "hey there";
+  var a = "hey there";
 }
 
 function branch3() {
@@ -18,5 +18,7 @@ function branch3() {
   var a = "hey you";
 }
 function branch4() {
-  let a = "hey you";
+  var a = "hey you";
+  var a = "hey you";
+  var a = "hey you";
 }
