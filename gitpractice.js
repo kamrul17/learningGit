@@ -20,5 +20,7 @@ function branch3() {
 function branch4() {
   var a = "hey you";
   var a = "hey you";
+  var a = "hey you there";
+  var a = "hey you";
   var a = "hey you";
 }
